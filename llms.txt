@@ -1,0 +1,48 @@
+# Pizza Tascio
+
+> Pizza Tascio is a New York style pizzeria with nine locations across the Kansas City
+> metro (Missouri and Kansas), serving hand-tossed pizza by the slice and whole 18-inch
+> pies. Dough is cold-proofed 3–4 days and baked on stone deck ovens. Voted KC's Favorite
+> Pizza (The Kansas City Star) and Best Pizza in the Midwest (Midwest Living).
+
+Key facts: The Combo is two big NY slices and a drink for $10, in store, every day.
+Cheese slices $4.50, specialty slices $5 (in-store only). Whole pies $24–$29, in store
+or online for pickup and delivery (https://www.pizzatascio.com/s/order). Signature ingredients: Dinapoli (Bianco DiNapoli) sauce, whole-milk / fresh mozzarella, fresh ricotta, Ezzo crispy cup pepperoni, Paradise Locker Italian sausage, Mike's Hot Honey, roasted garlic EVOO, sharp Parmesan, fresh basil.
+
+## Facts pages (this site, plain HTML)
+
+- [Locations & hours](https://info.pizzatascio.com/locations.html): all nine stores with addresses, phones, hours
+- [Menu & prices](https://info.pizzatascio.com/menu.html): pies, slices, The Combo
+- [Catering](https://info.pizzatascio.com/catering.html): Pizza Trailer ($24/guest) and White Glove Delivery
+- [Pizza classes](https://info.pizzatascio.com/pizza-classes.html): hands-on classes at West 39th Street
+- [FAQ](https://info.pizzatascio.com/faq.html)
+
+## Locations
+
+- Pizza Tascio Belton: 300 N Scott Ave, Belton, MO 64012 — 816-425-4145 — Open daily 11am-9pm
+- Pizza Tascio North Kansas City: 1111 Burlington St, North Kansas City, MO 64116 — 816-549-1221 — Mon-Thu & Sun 11am-10pm, Fri-Sat 11am-11pm
+- Pizza Tascio Overland Park: 6705 W 119th St, Overland Park, KS 66209 — 816-408-6398 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio West 39th Street: 1806 W 39th St, Kansas City, MO 64111 — 816-476-1770 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Waldo: 409 W Gregory Blvd, Kansas City, MO 64114 — 816-477-4482 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio St. Joseph: 1302 Frederick Avenue, St. Joseph, MO 64506 — 816-306-1059 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Barry Road: 7109 NW Barry Rd, Kansas City, MO 64153 — 816-281-2316 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Olathe: 1485 E 151st St, Olathe, KS 66062 — 816-680-4259 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Mission: 5422 Johnson Dr, Mission, KS 66205 — 913-395-8557 — Sun-Thu 11am-9pm, Fri-Sat 11am-10pm
+
+## Main website (JavaScript-rendered)
+
+- [Home](https://www.pizzatascio.com/)
+- [Menu](https://www.pizzatascio.com/menu)
+- [Order online](https://www.pizzatascio.com/s/order)
+- [Catering](https://www.pizzatascio.com/tascio-to-go)
+- [About](https://www.pizzatascio.com/about-us)
+
+## Optional
+
+- [Pizza Restaurants In Kansas City](https://www.pizzatascio.com/s/stories/pizza-restaurants-in-kansas-city)
+- [Best Pizzerias Near Me](https://www.pizzatascio.com/s/stories/best-pizzerias-near-me)
+- [Pizza Spots Near Me](https://www.pizzatascio.com/s/stories/pizza-spots-near-me)
+- [Authentic Pizza Near Me](https://www.pizzatascio.com/s/stories/authentic-pizza-near-me)
+- [Whats A White Pie](https://www.pizzatascio.com/s/stories/whats-a-white-pie)
+- [Pizza Downtown Kansas City Where To Find The Best Pizza In The Heart Of The City](https://www.pizzatascio.com/s/stories/pizza-downtown-kansas-city-where-to-find-the-best-pizza-in-the-heart-of-the-city)
+- [Kansas Citys Real Slice Shop Inside Pizza Tascios Ny Style Pizza Culture](https://www.pizzatascio.com/s/stories/kansas-citys-real-slice-shop-inside-pizza-tascios-ny-style-pizza-culture)
