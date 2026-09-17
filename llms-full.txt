@@ -1,0 +1,202 @@
+# Pizza Tascio
+
+> Pizza Tascio is a New York style pizzeria with nine locations across the Kansas City
+> metro (Missouri and Kansas), serving hand-tossed pizza by the slice and whole 18-inch
+> pies. Dough is cold-proofed 3–4 days and baked on stone deck ovens. Voted KC's Favorite
+> Pizza (The Kansas City Star) and Best Pizza in the Midwest (Midwest Living).
+
+Key facts: The Combo is two big NY slices and a drink for $10, in store, every day.
+Cheese slices $4.50, specialty slices $5 (in-store only). Whole pies $24–$29, in store
+or online for pickup and delivery (https://www.pizzatascio.com/s/order). Signature ingredients: Dinapoli (Bianco DiNapoli) sauce, whole-milk / fresh mozzarella, fresh ricotta, Ezzo crispy cup pepperoni, Paradise Locker Italian sausage, Mike's Hot Honey, roasted garlic EVOO, sharp Parmesan, fresh basil.
+
+## Facts pages (this site, plain HTML)
+
+- [Locations & hours](https://info.pizzatascio.com/locations.html): all nine stores with addresses, phones, hours
+- [Menu & prices](https://info.pizzatascio.com/menu.html): pies, slices, The Combo
+- [Catering](https://info.pizzatascio.com/catering.html): Pizza Trailer ($24/guest) and White Glove Delivery
+- [Pizza classes](https://info.pizzatascio.com/pizza-classes.html): hands-on classes at West 39th Street
+- [FAQ](https://info.pizzatascio.com/faq.html)
+
+## Locations
+
+- Pizza Tascio Belton: 300 N Scott Ave, Belton, MO 64012 — 816-425-4145 — Open daily 11am-9pm
+- Pizza Tascio North Kansas City: 1111 Burlington St, North Kansas City, MO 64116 — 816-549-1221 — Mon-Thu & Sun 11am-10pm, Fri-Sat 11am-11pm
+- Pizza Tascio Overland Park: 6705 W 119th St, Overland Park, KS 66209 — 816-408-6398 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio West 39th Street: 1806 W 39th St, Kansas City, MO 64111 — 816-476-1770 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Waldo: 409 W Gregory Blvd, Kansas City, MO 64114 — 816-477-4482 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio St. Joseph: 1302 Frederick Avenue, St. Joseph, MO 64506 — 816-306-1059 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Barry Road: 7109 NW Barry Rd, Kansas City, MO 64153 — 816-281-2316 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Olathe: 1485 E 151st St, Olathe, KS 66062 — 816-680-4259 — Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm
+- Pizza Tascio Mission: 5422 Johnson Dr, Mission, KS 66205 — 913-395-8557 — Sun-Thu 11am-9pm, Fri-Sat 11am-10pm
+
+## Main website (JavaScript-rendered)
+
+- [Home](https://www.pizzatascio.com/)
+- [Menu](https://www.pizzatascio.com/menu)
+- [Order online](https://www.pizzatascio.com/s/order)
+- [Catering](https://www.pizzatascio.com/tascio-to-go)
+- [About](https://www.pizzatascio.com/about-us)
+
+## Optional
+
+- [Pizza Restaurants In Kansas City](https://www.pizzatascio.com/s/stories/pizza-restaurants-in-kansas-city)
+- [Best Pizzerias Near Me](https://www.pizzatascio.com/s/stories/best-pizzerias-near-me)
+- [Pizza Spots Near Me](https://www.pizzatascio.com/s/stories/pizza-spots-near-me)
+- [Authentic Pizza Near Me](https://www.pizzatascio.com/s/stories/authentic-pizza-near-me)
+- [Whats A White Pie](https://www.pizzatascio.com/s/stories/whats-a-white-pie)
+- [Pizza Downtown Kansas City Where To Find The Best Pizza In The Heart Of The City](https://www.pizzatascio.com/s/stories/pizza-downtown-kansas-city-where-to-find-the-best-pizza-in-the-heart-of-the-city)
+- [Kansas Citys Real Slice Shop Inside Pizza Tascios Ny Style Pizza Culture](https://www.pizzatascio.com/s/stories/kansas-citys-real-slice-shop-inside-pizza-tascios-ny-style-pizza-culture)
+
+
+
+# Full content
+
+## Pizza Tascio — New York Style Pizza in Kansas City
+
+Pizza Tascio is a New York style pizzeria serving hand-tossed pizza
+by the slice and whole 18-inch pies at nine locations across the
+Kansas City metro (Missouri and Kansas). Dough is mixed in-house and cold-proofed
+for three to four days, pies are stretched by hand and baked on stone deck ovens, and
+slices are cut from display pies and reheated to order.
+The Combo — $10: two big New York slices and a drink,
+all day every day, in store. Cheese slice $4.50; rotating specialty slices $5. Slices are
+in-store only; whole pies are available in store or online for pickup and delivery at
+https://www.pizzatascio.com/s/order.
+
+### Awards
+- Voted KC's Favorite Pizza — The Kansas City Star
+- Voted KC's Favorite Deal — The Kansas City Star
+- Best Pizza in the Midwest — Midwest Living
+- Top 40 Restaurants in KC — KC Magazine
+- Top 25 New Pizzerias in the Nation to Watch — Pizza Today
+- Rated 8.1 — Barstool Sports
+
+### Signature ingredients
+
+Dinapoli (Bianco DiNapoli) sauce, whole-milk / fresh mozzarella, fresh ricotta, Ezzo crispy cup pepperoni, Paradise Locker Italian sausage, Mike's Hot Honey, roasted garlic EVOO, sharp Parmesan, fresh basil.
+
+### On this site
+
+- All nine locations — addresses, phones, hours
+
+- Menu — pies, slices, prices
+
+- Catering — Pizza Trailer and White Glove Delivery
+
+- Pizza classes
+
+- Frequently asked questions
+
+Contact: customerservice@pizzatascio.com ·
+Instagram: @pizzatascio ·
+Main website: https://www.pizzatascio.com
+
+## Pizza Tascio Locations & Hours
+
+Nine locations across the Kansas City metro. Every shop serves pizza by the slice
+in store all day, plus whole pies in store or online for pickup and delivery.
+
+ | Location | Phone | Hours | Link
+ | Pizza Tascio Belton300 N Scott Ave, Belton, MO 64012 | 816-425-4145 | Open daily 11am-9pm | page
+ | Pizza Tascio North Kansas City1111 Burlington St, North Kansas City, MO 64116 | 816-549-1221 | Mon-Thu & Sun 11am-10pm, Fri-Sat 11am-11pm | page
+ | Pizza Tascio Overland Park6705 W 119th St, Overland Park, KS 66209 | 816-408-6398 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio West 39th Street1806 W 39th St, Kansas City, MO 64111 | 816-476-1770 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio Waldo409 W Gregory Blvd, Kansas City, MO 64114 | 816-477-4482 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio St. Joseph1302 Frederick Avenue, St. Joseph, MO 64506 | 816-306-1059 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio Barry Road7109 NW Barry Rd, Kansas City, MO 64153 | 816-281-2316 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio Olathe1485 E 151st St, Olathe, KS 66062 | 816-680-4259 | Mon-Thu & Sun 11am-9pm, Fri-Sat 11am-10pm | page
+ | Pizza Tascio Mission5422 Johnson Dr, Mission, KS 66205 | 913-395-8557 | Sun-Thu 11am-9pm, Fri-Sat 11am-10pm | page
+
+## Pizza Tascio Menu
+
+### By the slice (in store only)
+
+- The Combo — $10: two big New York slices & a drink (all day, every day)
+
+- Cheese slice — $4.50
+
+- All other slices — $5 (rotating specialty options)
+
+Slices are cut from display pies and reheated to order on the stone deck. They are not
+available for delivery — a slice is at its best moments out of the oven.
+
+### Whole pies — 18", feed 4–7 adults
+
+ | Pie | Price | Description
+ | Cheese Pie | $24 | Dinapoli sauce with fresh mozzarella.
+ | Pepperoni | $26 | Dinapoli sauce, mozzarella & Ezzo crispy cup pepperoni.
+ | Margherita | $28 | Dinapoli sauce, mozzarella, ricotta, sharp Parm, roasted garlic EVOO & fresh basil.
+ | Spicy Pep | $28 | Dinapoli, mozzarella, Ezzo pepperoni, jalapeno & Mike's Hot Honey.
+ | Sausage | $26 | Dinapoli sauce, mozzarella & Paradise Locker Italian sausage.
+ | S.P.O. Pie | $27 | Dinapoli, mozzarella, Paradise Locker sausage, onions & peppers.
+ | Red Tascio | $29 | Dinapoli, mozzarella, ricotta, Ezzo pepperoni, basil & Mike's Hot Honey.
+ | White Tascio | $29 | White pie, mozzarella, ricotta, Paradise Locker sausage, broccoli & garlic EVOO.
+ | White | $27 | White pie with mozzarella, fresh ricotta & roasted garlic EVOO.
+ | Veggie | $28 | Dinapoli, mozzarella, mushrooms, peppers, onions & tomatoes.
+
+Menu categories: Slices, Pies, Salads, Extras, Dessert. Full menu with current specials:
+https://www.pizzatascio.com/menu. Order online for pickup or delivery:
+https://www.pizzatascio.com/s/order.
+
+## Pizza Tascio Catering (Tascio To-Go)
+
+Two catering services for events across the Kansas City metro. Catering is separate
+from everyday online ordering.
+
+### The Pizza Trailer — on-site catering
+
+$24 per guest, $1,000 event minimum. A staffed mobile pizzeria rolls
+to your venue and bakes fresh hand-tossed 14-inch New York pies on site. The wedding and
+event favorite.
+
+### White Glove Delivery — drop-off catering
+
+Flat $50 delivery fee plus the price of the pies. The Pizza Tascio
+team (first-party, not a third-party app) delivers hot, ready-to-serve 18-inch pies in
+insulated bags. Plan one pie per four guests.
+
+Book at https://www.pizzatascio.com/tascio-to-go.
+
+## Tascio Pizza Classes
+
+Hands-on: stretch real dough, build & top your own 12" NY-style pie with a Tascio pizzaiolo, bake it in the deck oven — then eat it. Public classes or private events.
+
+- Price: $90 per guest (public class); private events flat $1,400
+for any group of 1–12 guests
+
+- Capacity: up to 12 guests
+
+- Where: the West 39th Street location, in a dedicated pizza-making
+classroom
+
+Book at https://www.pizzatascio.com/pizza-class.
+
+## Pizza Tascio — Frequently Asked Questions
+
+### Does Pizza Tascio sell pizza by the slice?
+
+Yes. Fresh New York slices come out all day at every location. Slices are in-store only; online ordering covers whole pies and the rest of the menu for pickup or delivery.
+
+### What makes it New York style pizza?
+
+Hand-tossed dough cold-proofed three to four days, a thin crust that is crisp at the edge and foldable down the middle, and hot stone deck ovens — with Bianco DiNapoli sauce, whole-milk mozzarella, and Ezzo crispy cup pepperoni.
+
+### What is The Combo?
+
+Two big New York slices and a drink for $10, all day every day, in store at every location.
+
+### How many locations does Pizza Tascio have?
+
+Nine, across the Kansas City metro: North Kansas City, 39th Street, Waldo, Barry Road, and St. Joseph in Missouri, plus Overland Park, Olathe, Mission, and Belton in Kansas.
+
+### Does Pizza Tascio deliver?
+
+Whole pies and menu items can be ordered online for pickup or delivery. Slices are in-store only. For events, White Glove Delivery brings hot ready-to-serve pies for a flat $50 delivery fee plus the pies.
+
+### How much does pizza catering cost in Kansas City?
+
+The Pizza Trailer is $24 per guest with a $1,000 event minimum (on-site baking). White Glove Delivery is a flat $50 delivery fee plus the price of the pies.
+
+### How big are the pies?
+
+Whole pies are 18 inches and feed four to seven adults. The catering trailer bakes 14-inch pies on site; pizza classes build 12-inch pies.
